@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about natural language processing and medical image analysis.
 - 💞️ I’m looking to collaborate on projects related to AI in healthcare or medical research.
 - 📫 How to reach me: You can reach me via email at msn174@email.com.
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to explore different cultures through their traditional cuisines.
 
 <!---
