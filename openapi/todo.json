@@ -81,7 +81,7 @@ components:
                 todo:
                     type: string
                     description: The todo to add to the list.
-                    required: true
+                    required: false
         deleteTodoRequest:
             type: object
             required:
